@@ -1,0 +1,6 @@
+[submodule "challenges/phase_one_group/javascript-fundamentals"]
+	path = challenges/phase_one_group/javascript-fundamentals
+	url = https://github.com/almorcrette/javascript-fundamentals.git
+[submodule "challenges/phase_two/group_work/javascript-fundamentals"]
+	path = challenges/phase_two/group_work/javascript-fundamentals
+	url = https://github.com/Josenewmano/javascript-fundamentals.git
